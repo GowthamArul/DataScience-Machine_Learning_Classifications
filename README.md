@@ -68,4 +68,4 @@ WHY AND HOW?
 *) Example: Combining votes from a pool of experts, each will bring their own experience and background to solve the problem resulting in a better outcome. 
 
 
-# To Get Clear Understanding, Go throught the Power Points in each Classifications
+# To Get Clear Understanding, Go through the Power Points in each Classifications
